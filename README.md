@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jonatan Martinez! 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
- - [Active Directory Home Lab](https://github.com/Jonatan-M1/LABURL)
+ - [Active Directory Home Lab](https://github.com/Jonatan-M1/Windows-Server-2025-Active-Directory-Home-Lab-Project)
 
 
 <h2>📄 Certifications</h2>
